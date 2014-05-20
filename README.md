@@ -1,4 +1,4 @@
-Delete-Rows-Matching
+Delete Rows Matching
 ====================
 
 Delete rows equal only one remaining.
